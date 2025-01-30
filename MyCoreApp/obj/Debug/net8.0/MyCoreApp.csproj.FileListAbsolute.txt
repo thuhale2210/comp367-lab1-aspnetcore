@@ -32,3 +32,4 @@ C:\Users\tle\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refint\MyCoreApp.
 C:\Users\tle\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 C:\Users\tle\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\Users\tle\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+C:\Users\tle\source\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
